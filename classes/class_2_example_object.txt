@@ -1,0 +1,11 @@
+Jordan
+
+name = "Jordan"
+position = "Bartender"
+hourly_wage = 15.25
+at_work = false
+
+display_name = (name = "Jordan")
+change_position (position = "Manager")
+give_raise = (hourly_wage = 20.25)
+clock_out = (at_work = false)
