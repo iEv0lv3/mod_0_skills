@@ -1,0 +1,11 @@
+Employee
+
+name (string)
+position (string)
+hourly_wage (float)
+at_work (boolean)
+
+display_name (accesses the :name (string) attribute)
+change_position (modify the :position (string) attribute)
+give_raise (modify the :hourly_wage (float) attribute)
+clock_out (modify the :at_work (boolean) attribute)
