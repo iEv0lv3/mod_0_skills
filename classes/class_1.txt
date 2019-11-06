@@ -1,0 +1,11 @@
+Menu Item
+
+name (string)
+ingredients (array)
+price (float)
+available (boolean)
+
+update_name (this method will modify the :name (string) attribute)
+change_ingredients (this method will modify the :ingredients (array) attribute)
+update_price (this method will modify the :price (float) attribute)
+is_available (this method will use the :available (boolean) to check the item availability)
