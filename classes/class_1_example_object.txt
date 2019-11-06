@@ -1,0 +1,11 @@
+Pizza
+
+name = "loaded pizza"
+ingredients = ["pepperoni", "sausage", "peppers", "onions", "olives"]
+price = 16.25
+available = true
+
+update_name = "supreme pizza"
+change_ingredients = ["pepperoni", "sausage", "peppers", "onions"]
+update_price = 17.25
+is_available = false
